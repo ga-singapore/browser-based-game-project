@@ -78,10 +78,11 @@ If more than two items are marked "no" in this section, this section will be con
 ### **Presentation Requirements**
 marked "no" in this section, this section will be considered a failure. Your presentation must fulfill the below requirements.
 
-|     |                                                                                       |
-| --- | ------------------------------------------------------------------------------------- |
-| 6.1 | Present your project in front of the class on the scheduled presentation day.         |
-| 6.2 | The project you present is the project you were approved by your instructor to build. |
+|     |                                                                                        |
+| --- | -------------------------------------------------------------------------------------- |
+| 6.1 | Present your project in front of the class on the scheduled presentation day.          |
+| 6.2 | The project your present is the project you were approved by your instructor to build. |
+
 ## Evaluation
 
 Upon completion of your presentation, your instructional team will evaluate your project.
