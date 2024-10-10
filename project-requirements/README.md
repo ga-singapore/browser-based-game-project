@@ -1,0 +1,26 @@
+# ![Browser-Based Game Project - Project Requirements](./assets/hero.png)
+
+## Overview
+
+For this project, you'll be building something fun - a game!
+
+Thanks to the amount of logic in a game, there's no better app to teach you to think like a programmer! You'll get the opportunity to be creative and work through some tough programming challenges.
+
+***You will work individually on this project***.
+
+> ❗️ As a reminder, General Assembly has a zero-plagiarism policy. ***Your project's code must be substantially yours***. Do not copy code from similar projects or other sources. However, using code from the internet to accomplish generic tasks is okay - for example, a line of code that replaces a character at a specific position in a string.
+
+
+## Requirements
+
+![[project-requirements.pdf]]
+
+
+## Evaluation
+
+Upon completion of your presentation, your instructional team will evaluate your project.
+
+- Your instructors will be using the above guidelines to determine whether or not the project passes all of the minimum requirements.
+- If your instructors determine that the project does not meet the minimum requirements, you may be provided the opportunity to address the deficiencies identified and resubmit the project. Please reach out to your student success specialist if you have questions.
+- Within a week after your presentation, your instructors will provide you with feedback on your project.
+- If there is a specific section of code that you would like an instructor to provide additional feedback on, please ask!

@@ -30,7 +30,7 @@ After your project proposal has been approved, you'll need to set up a GitHub re
 
 > 🚨 As a reminder, you should use the same repo or keep all the repos you use for the entire duration of your project to meet the project requirements.
 
-## Deployed app deliverable
+## (Optional) Deployed app deliverable
 
 During project week, you'll deploy your project so that others are able to play it on the internet! Follow the [GitHub Pages Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/github-pages-deployment-for-static-sites/) to deploy your project.
 

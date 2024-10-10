@@ -12,7 +12,7 @@ This project requires an understanding of basic JavaScript, CSS, and HTML princi
 
 [Project Journey](./project-journey/README.md)
 
-[Project Requirements PDF](./project-requirements/assets/project-requirements.pdf)
+[Project Requirements](./project-requirements/README.md)
 
 [Recommended Games](./recommended-games/README.md)
 
