@@ -14,7 +14,7 @@ Thanks to the amount of logic in a game, there's no better app to teach you to t
 ## Requirements
 
 
-<embed src="./assets/project-requirements.pdf" width="100%" type="application/pdf">
+<embed src="./assets/project-requirements.pdf" width="100%" height="700px" type="application/pdf">
 
 
 ## Evaluation
