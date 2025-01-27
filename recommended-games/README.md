@@ -1,6 +1,9 @@
-# ![Browser-Based Game Project - Recommended Games](./assets/hero.png)
-
-## Recommended games
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Browser-Based Game Project</span>
+  <span class="subhead">Recommended Games</span>
+</h1>
+## Recommended Games
 
 > ⚠️ Games are listed in **approximate** order of increasing difficulty.
 

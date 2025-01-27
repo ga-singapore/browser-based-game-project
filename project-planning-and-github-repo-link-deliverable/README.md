@@ -1,4 +1,8 @@
-# ![Browser-Based Game Project - Project Planning and GitHub Repo Link Deliverable](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Browser-Based Game Project</span>
+  <span class="subhead">Project Planning And GitHub Repo Link Deliverable</span>
+</h1>
 
 ## Contents
 

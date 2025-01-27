@@ -1,4 +1,8 @@
-# ![Browser-Based Game Project - Project Deliverables](./assets/hero.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Browser-Based Game Project</span>
+  <span class="subhead">Project Deliverables</span>
+</h1>
 
 ## Contents
 
