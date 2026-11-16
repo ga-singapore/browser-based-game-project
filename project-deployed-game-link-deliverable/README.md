@@ -7,7 +7,7 @@
 
 ## Introduction
 
-During project week, you'll deploy your project so that others are able to play it on the internet! Follow the [GitHub Pages Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/github-pages-deployment-for-static-sites/) to deploy your project.
+During project week, you'll deploy your project so that others are able to play it on the internet! Follow the [GitHub Pages Deployment guide](https://ga-curriculum.github.io/universal-resources/deployment/github-pages-deployment-for-static-sites/) to deploy your project.
 
 ## Details
 
